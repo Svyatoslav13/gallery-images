@@ -1,8 +1,9 @@
 # Простой скрипт галереи изображений на PHP
 
-## Запуск
+## Функционал
 
-1. `git clone git https://github.com/SkillfactoryCoding/module17_php/php_image_gallery_example.git`
-2. `cd php_image_gallery_example`
-3. `php -S localhost:8080`
+1. `загрузка изображений`
+2. `добавление комментариев`
+3. `удаление изображений вместе с комментариями`
+4. `вывод комментариев ко всем изображениям`
 
